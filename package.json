@@ -1,0 +1,21 @@
+{
+  "name": "e2e-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.0.0-rc5",
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-protractor": "0.0.12",
+    "protractor": "^1.6.1",
+    "require-dir": "^0.1.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Aleksandr.Subota",
+  "license": "ISC"
+}
